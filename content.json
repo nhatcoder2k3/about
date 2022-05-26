@@ -1,9 +1,9 @@
 {
   "tools":[
     {
-      "id":"1",
-       "title":"Làm Đẹp CSS",
-       "slug":"lam-dep-css"
-    }
-  }
+     "id":"1",
+      "title":"Làm Đẹp CSS",
+      "slug":"lam-dep-css"
+     }
+   ]
 }
