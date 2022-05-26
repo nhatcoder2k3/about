@@ -2,8 +2,13 @@
   "tools":[
     {
      "id":"1",
-      "title":"Làm Đẹp CSS",
-      "slug":"lam-dep-css"
+     "title":"Làm Đẹp CSS",
+     "slug":"lam-dep-css"
+     },
+       {
+     "id":"2",
+     "title":"Làm Đẹp JS",
+     "slug":"lam-dep-css"
      }
    ]
 }
